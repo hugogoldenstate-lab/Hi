@@ -1,0 +1,6 @@
+git clone https://github.com/0xcyberpj/tweet-machine.git && cd tweet-machine
+chmod +x twettmachine.sh
+./tweetmachine.sh -u mamadcrex1 -d <directory but not important>
+Eg:
+Tweet-Machine@Pj >> ./tweetmachine.sh -u cyberpj1 -d /tmp
+Tweet-Machine@Pj >>./tweetmachine.sh -u cyberpj1
